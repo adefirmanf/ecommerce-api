@@ -9,8 +9,9 @@ class Products {
       ['blibli', BlibliMerchantService.Product.GetProductBySearch(spec)],
       // ['shopee', BlibliMerchantService.Product.GetProductBySearch(spec)]
     ])
+
     spec.merchant.map(n => {
-      listMerchant.push({ merchant: n, service: merchant.get(n) })
+      listMerchant.push({ merchant: n, service: merchant.get(n.trim()) })
     })
 
     let activeMerchant = []
@@ -23,11 +24,10 @@ class Products {
 
     results = results.map((n, i) => {
       return {
-        data: n,
+        data: n || [],
         merchant: activeMerchant[i]
       }
     })
-
     return results
   }
 }
