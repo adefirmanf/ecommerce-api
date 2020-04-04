@@ -1,4 +1,4 @@
-const { check, rules } = require('.')
+const { validate, rule } = require('.')
 const assert = require('assert')
 
 describe("Validator test", () => {
@@ -7,18 +7,18 @@ describe("Validator test", () => {
       username: "johndoe",
       password: "secret"
     }
-    const rule = {
-      username: rules.required(),
-      password: rules.required()
+    const rules = {
+      username: rule.required(),
+      password: rule.required()
     }
-    check.validate(user, rule)
+    validate(user, rules)
   })
   it("Should fail some property is missing", () => {
     const user = {}
-    const rule = {
-      username: rules.required(),
-      password: rules.required()
+    const rules = {
+      username: rule.required(),
+      password: rule.required()
     }
-    assert.throws(() => check.validate(user, rule), /Error/)
+    assert.throws(() => validate(user, rules), /Error/)
   })
 })

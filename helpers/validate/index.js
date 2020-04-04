@@ -1,6 +1,7 @@
 const rules = require('./rules')
-const check = require('./validate')
+const validate = require('./validate')
 
 module.exports = {
-  rules, check
+  rule: rules,
+  validate
 }
