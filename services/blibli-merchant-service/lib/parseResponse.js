@@ -8,11 +8,13 @@ module.exports = (data) => {
     }]
   }
   return data.products.map((n) => {
+    let price
+
     return {
       name: n.name,
       href: n.url,
       img: n.images,
-      price: n.price.priceDisplay
+      price: n.price.minPrice
     }
   })
 }
