@@ -1,4 +1,5 @@
 const BlibliMerchantService = require('../../blibli-merchant-service/')
+const ShopeeMerchantService = require('../../shopee-merchant-service/')
 
 class Products {
   async GetProductsBySearch(spec) {
@@ -7,7 +8,7 @@ class Products {
 
     const merchant = new Map([
       ['blibli', BlibliMerchantService.Product.GetProductBySearch(spec)],
-      // ['shopee', BlibliMerchantService.Product.GetProductBySearch(spec)]
+      ['shopee', ShopeeMerchantService.Product.GetProductBySearch(spec)]
     ])
 
     spec.merchant.map(n => {

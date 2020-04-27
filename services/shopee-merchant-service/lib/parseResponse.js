@@ -1,7 +1,7 @@
-const merchantName = "blibli"
+const merchantName = "shopee"
 
 module.exports = (data) => {
-  if (data.products.length < 1) {
+  if (data.items.length < 1) {
     return [{
       name: "",
       href: "",
@@ -26,36 +26,36 @@ module.exports = (data) => {
       },
     }]
   }
-  return data.products.map((n) => {
+  return data.items.map((n) => {
     let price
 
     return {
       name: n.name,
-      href: n.url,
+      href: "",
       img: n.images,
-      category: n.rootCategory.name,
-      price: n.price.minPrice,
+      category: n.catid,
+      price: n.price,
       priceDetails: {
-        priceDisplay: n.price.priceDisplay,
-        discount: n.price.discount,
-        strikeDisplay: n.price.strikeThroughPriceDisplay || ""
+        priceDisplay: n.price,
+        discount: n.show_discount,
+        strikeDisplay: n.price_max || ""
       },
-      attributes: n.attributes.map((j) => {
-        if (j.optionListingType == 'COLOR_PALETE') {
-          j.optionListingType = 'Color'
+      attributes: n.tier_variations.map((j) => {
+        return {
+          optionListingType: j.name,
+          values: j.options
         }
-        return j
       }),
       review: {
-        rating: n.review.rating,
-        count: n.review.count
+        rating: n.item_rating.rating_star,
+        count: n.item_rating.rating_count
       },
       brand: n.brand,
       merchant: {
         name: merchantName,
-        productId: n.id,
-        sku: n.sku,
-        shopId: n.merchantCode
+        productId: n.itemid,
+        sku: n.itemid,
+        shopId: n.shopid
       }
     }
   })
