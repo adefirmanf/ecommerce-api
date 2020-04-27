@@ -2,6 +2,12 @@ const BlibliMerchantService = require('../../blibli-merchant-service/')
 const ShopeeMerchantService = require('../../shopee-merchant-service/')
 
 class Products {
+  async GetProduct(spec) {
+    const merchant = new Map([
+      ['blibli', BlibliMerchantService.Product.GetProducts(spec)]
+    ])
+    return await merchant.get(spec.merchant)
+  }
   async GetProductsBySearch(spec) {
 
     let listMerchant = []

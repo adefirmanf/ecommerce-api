@@ -1,12 +1,25 @@
 const axios = require('axios')
 const url = require('url')
-const parseResponse = require('../lib/parseResponse')
+const parseListResponse = require('../lib/parseListResponse')
+const parseDetailResponse = require('../lib/parseDetailResponse')
 
 class BlibliMerchant {
   constructor() {
     this._params = url.parse(process.env.BLIBLI_PRODUCTION || "https://blibli.com")
   }
-  async GetProducts() { }
+  async GetProducts(spec) {
+    this._params.pathname = `backend/product/products/pc--${spec.productId}/_summary`
+    this._params.query = {
+      selectedItemSku: spec.productSku
+    }
+    let Response;
+    try {
+      Response = await axios.get(url.format(this._params))
+    } catch (err) {
+      console.log(err)
+    }
+    return parseDetailResponse(Response.data.data)
+  }
   async GetProductsBySearch(spec) {
     this._params.pathname = "backend/search/products"
     this._params.query = {
@@ -24,7 +37,7 @@ class BlibliMerchant {
     try {
       Response = await axios.get(url.format(this._params))
     } catch (err) { }
-    return parseResponse(Response.data.data)
+    return parseListResponse(Response.data.data)
   }
   async GetCourier() { }
 }

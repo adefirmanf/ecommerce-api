@@ -2,7 +2,15 @@ const { validate, rule } = require('../../../helpers/validate')
 const Product = require('../service')
 
 module.exports = {
-  GetProducts: () => { },
+  GetProducts: async (data) => {
+    console.log(data)
+    validate(data, {
+      merchant: rule.required(),
+      productId: rule.required(),
+      productSku: rule.required()
+    })
+    return new Product().GetProduct(data)
+  },
   GetProductBySearch: async (data) => {
     validate(data, {
       search: rule.required(),
