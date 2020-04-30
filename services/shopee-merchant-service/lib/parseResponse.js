@@ -27,18 +27,17 @@ module.exports = (data) => {
     }]
   }
   return data.items.map((n) => {
-    let price
-
+    const priceFormat = (v) => parseInt(v.toString().slice(0, v.toString().length - 5))
     return {
       name: n.name,
       href: "",
       img: n.images,
       category: n.catid,
-      price: n.price,
+      price: priceFormat(n.price),
       priceDetails: {
-        priceDisplay: n.price,
-        discount: n.show_discount,
-        strikeDisplay: n.price_max || ""
+        priceDisplay: priceFormat(n.price),
+        discount: priceFormat(n.show_discount),
+        strikeDisplay: priceFormat(n.price_max) || 0
       },
       attributes: n.tier_variations.map((j) => {
         return {
