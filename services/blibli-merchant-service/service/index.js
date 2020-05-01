@@ -16,7 +16,7 @@ class BlibliMerchant {
     try {
       Response = await axios.get(url.format(this._params))
     } catch (err) {
-      console.log(err)
+      throw err
     }
     return parseDetailResponse(Response.data.data)
   }
@@ -36,7 +36,9 @@ class BlibliMerchant {
     let Response;
     try {
       Response = await axios.get(url.format(this._params))
-    } catch (err) { }
+    } catch (err) {
+      throw new Error(err)
+    }
     return parseListResponse(Response.data.data)
   }
   async GetCourier() { }

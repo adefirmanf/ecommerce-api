@@ -27,7 +27,7 @@ class Products {
         activeMerchant.push(i.merchant)
         return i.service
       })
-    ).then(results => results).catch(err => { throw new Error(err) })
+    ).then(results => results).catch(err => { throw err })
 
     results = results.map((n, i) => {
       return {

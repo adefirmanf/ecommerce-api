@@ -7,7 +7,9 @@ module.exports = {
       productId: rule.required(),
       productSku: rule.required()
     })
-    return new BlibliMerchant().GetProducts(data)
+    return new BlibliMerchant().GetProducts(data).catch(err => {
+      throw err
+    })
   },
   GetProductBySearch: async (data) => {
     validate(data, {

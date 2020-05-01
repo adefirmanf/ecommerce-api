@@ -31,7 +31,7 @@ module.exports = (data) => {
     return {
       name: n.name,
       href: "",
-      img: n.images,
+      img: n.images.map(img => 'https://cf.shopee.co.id/file/' + img),
       category: n.catid,
       price: priceFormat(n.price),
       priceDetails: {
