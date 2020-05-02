@@ -1,8 +1,8 @@
-const axios = require('axios')
 const url = require('url')
 const parseListResponse = require('../lib/parseListResponse')
 const parseDetailResponse = require('../lib/parseDetailResponse')
 
+const axios = require('axios')
 class BlibliMerchant {
   constructor() {
     this._params = url.parse(process.env.BLIBLI_PRODUCTION || "https://blibli.com")
@@ -14,7 +14,18 @@ class BlibliMerchant {
     }
     let Response;
     try {
-      Response = await axios.get(url.format(this._params))
+      Response = await axios.get(url.format(this._params), {
+        headers: {
+          "accept": "application/json, text/plain, */*",
+          "accept-language": "en-US,en;q=0.9,id;q=0.8,ja;q=0.7",
+          "cache-control": "no-cache",
+          "channelid": "web",
+          "sec-fetch-dest": "empty",
+          "sec-fetch-mode": "cors",
+          "sec-fetch-site": "same-origin",
+          "x-b3-traceid": "036d0572ea57290d",
+        }
+      })
     } catch (err) {
       throw err
     }
@@ -35,8 +46,18 @@ class BlibliMerchant {
     }
     let Response;
     try {
-      Response = await axios.get(url.format(this._params))
-      console.log(Response)
+      Response = await axios.get(url.format(this._params), {
+        headers: {
+          "accept": "application/json, text/plain, */*",
+          "accept-language": "en-US,en;q=0.9,id;q=0.8,ja;q=0.7",
+          "cache-control": "no-cache",
+          "channelid": "web",
+          "sec-fetch-dest": "empty",
+          "sec-fetch-mode": "cors",
+          "sec-fetch-site": "same-origin",
+          "x-b3-traceid": "036d0572ea57290d",
+        }
+      })
     } catch (err) {
       console.log(err)
       throw new Error(err)
