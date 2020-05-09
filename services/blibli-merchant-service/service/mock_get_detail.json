@@ -1,0 +1,130 @@
+{
+  "data": {
+    "code": 200,
+    "status": "OK",
+    "data": {
+      "name": "Lapakoe Kaos Pria ",
+      "url": "https://www.blibli.com/p/lapakoe-kaos-pria/pc--MTA-4066661?ds=UM2-60023-00074",
+      "urlFriendlyName": "lapakoe-kaos-pria",
+      "categories": [
+        {
+          "level": 1,
+          "id": "54817",
+          "label": "Fashion Pria",
+          "url": "https://www.blibli.com/fashion-pria/54817",
+          "productCategoryCode": "54817"
+        },
+        {
+          "level": 2,
+          "id": "BA-1000008",
+          "label": "Pakaian Pria",
+          "url": "https://www.blibli.com/pakaian-pria/54817",
+          "productCategoryCode": "BA-1000008"
+        },
+        {
+          "level": 3,
+          "id": "T--1000001",
+          "label": "T-Shirt Pria",
+          "url": "https://www.blibli.com/t-shirt-pria/54817",
+          "productCategoryCode": "T--1000001"
+        }
+      ],
+      "masterCategories": [
+        {
+          "level": 1,
+          "id": "FA-1000025",
+          "label": "Fashion Pria",
+          "url": "https://www.blibli.com/fashion-pria/FA-1000025",
+          "productCategoryCode": "FA-1000025"
+        },
+        {
+          "level": 2,
+          "id": "BA-1000169",
+          "label": "Pakaian",
+          "url": "https://www.blibli.com/pakaian/FA-1000025",
+          "productCategoryCode": "BA-1000169"
+        },
+        {
+          "level": 3,
+          "id": "T--1000004",
+          "label": "T-Shirt",
+          "url": "https://www.blibli.com/t-shirt/FA-1000025",
+          "productCategoryCode": "T--1000004"
+        }
+      ],
+      "brand": {
+        "name": "Lapakoe",
+        "logo": "https://www.static-src.com/wcsstore/Indraprastha//images/brandlogo/BRD-27806/lapakoe-logo.png",
+        "code": "lapakoe",
+        "official": false
+      },
+      "images": [
+        {
+          "full": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-4066661/lapakoe_lapakoe__jangan_ngajak_bersatatus__kaos_pria_full03.jpg",
+          "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/thumbnail//93/MTA-4066661/lapakoe_lapakoe__jangan_ngajak_bersatatus__kaos_pria_full03.jpg"
+        },
+        {
+          "full": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//93/MTA-4066661/lapakoe_lapakoe__jangan_ngajak_bersatatus__kaos_pria_full04.jpg",
+          "thumbnail": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/thumbnail//93/MTA-4066661/lapakoe_lapakoe__jangan_ngajak_bersatatus__kaos_pria_full04.jpg"
+        }
+      ],
+      "conditions": [
+        "ONLINE"
+      ],
+      "type": "REGULAR",
+      "attributes": {},
+      "uniqueSellingPoint": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<ul>\n<li>Short sleeve t-shirt </li>\n<li>Desain trendy</li>\n<li>Round neckline dan detail print</li>\n<li>Cocok digunakan untuk aktivitas sehari-hari</li>\n<li>Material : Cotton combed 30s</li>\n</ul>\n</body>\n</html>",
+      "warranty": "",
+      "description": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p>Lapakoe Kaos Pria merupakan short sleeve t-shirt berbahan cotton combed 30s yang didesain trendy, round neckline dan detail print pada bagian depan sehingga cocok digunakan untuk aktivitas sehari-hari.</p>\n<p><strong>Size Chart :&nbsp;</strong></p>\n<ul>\n<li><strong>Size S :</strong> <br />Lebar 47 cm, Panjang 67 cm.</li>\n<li><strong>Size M :</strong> <br />Lebar 50 cm, Panjang 70 cm.</li>\n<li><strong>Size L :</strong> <br />Lebar 53 cm, Panjang 73 cm.</li>\n<li><strong>Size XL :</strong> <br />Lebar 56 cm, Panjang 75 cm.</li>\n<li><strong>Size XXL :</strong> <br />Lebar 59cm, Panjang 77 cm.</li>\n</ul>\n</body>\n</html>",
+      "specifications": [
+        {
+          "name": "Material",
+          "value": "cotton 30s"
+        },
+        {
+          "name": "Petunjuk Perawatan",
+          "value": "jangan di campur dengan warna lain"
+        },
+        {
+          "name": "Daerah Asal",
+          "value": "Jawa Timur"
+        },
+        {
+          "name": "Lain-lain",
+          "value": "-"
+        },
+        {
+          "name": "Brand",
+          "value": "Lapakoe"
+        }
+      ],
+      "sku": "UM2-60023-00074",
+      "code": "MTA-4066661",
+      "ean": "15670517104517932",
+      "pristineId": "",
+      "itemSku": "UM2-60023-00074",
+      "itemCode": "MTA-4066661-00002",
+      "productItemCode": "pic--MTA-4066661-00002",
+      "review": {
+        "rating": 0.0,
+        "count": 0
+      },
+      "merchantCode": "UM2-60023",
+      "itemSkus": [
+        "UM2-60023-00074-00005",
+        "UM2-60023-00074-00004",
+        "UM2-60023-00074-00006",
+        "UM2-60023-00074-00002",
+        "UM2-60023-00074-00008",
+        "UM2-60023-00074-00003",
+        "UM2-60023-00074-00001",
+        "UM2-60023-00074-00007",
+        "UM2-60023-00074-00010",
+        "UM2-60023-00074-00009"
+      ],
+      "ampUrl": "https://www.blibli.com/amp/p/lapakoe-kaos-pria/pc--MTA.4066661",
+      "usageProductCode": "pc--MTA-4066661",
+      "idType": "pc"
+    }
+  }
+}

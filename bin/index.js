@@ -1,4 +1,9 @@
 require('dotenv').config()
+const firebase = require('firebase')
+require('firebase/auth')
+require('firebase/firestore')
+
+firebase.initializeApp(require('../firebase-config'))
 
 const app = require('express')()
 const bodyParser = require('body-parser')
