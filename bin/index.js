@@ -9,12 +9,7 @@ const app = require("express")();
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-app.use(
-  cors({
-    credential: true,
-    origin: ["https://caribaju.store", "http://wawangunawan.web.id"],
-  })
-);
+app.use(cors());
 app.use(bodyParser.json());
 
 app.listen(process.env.PORT, () => {

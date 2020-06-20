@@ -73,14 +73,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 5.0,
-        "rating_count": [
-          36,
-          0,
-          0,
-          0,
-          0,
-          36
-        ],
+        "rating_count": [36, 0, 0, 0, 0, 36],
         "rcount_with_image": 5,
         "rcount_with_context": 7
       },
@@ -91,26 +84,14 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL", "XXXL"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Hitam",
-            "Putih",
-            "Merah",
-            "Navy"
-          ]
+          "options": ["Hitam", "Putih", "Merah", "Navy"]
         }
       ],
       "is_adult": null,
@@ -136,12 +117,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000167,
-        1000006,
-        1000031
-      ],
+      "label_ids": [35, 1000167, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 46,
@@ -204,14 +180,7 @@
       "shop_location": "KOTA TANGERANG",
       "item_rating": {
         "rating_star": 4.8,
-        "rating_count": [
-          20,
-          0,
-          0,
-          0,
-          4,
-          16
-        ],
+        "rating_count": [20, 0, 0, 0, 4, 16],
         "rcount_with_image": 5,
         "rcount_with_context": 6
       },
@@ -240,13 +209,7 @@
           "properties": null,
           "type": null,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -272,14 +235,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000167,
-        74,
-        47,
-        1000016,
-        1000022
-      ],
+      "label_ids": [35, 1000167, 74, 47, 1000016, 1000022],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 238,
@@ -340,14 +296,7 @@
       "shop_location": "KOTA BANDUNG",
       "item_rating": {
         "rating_star": 4.7,
-        "rating_count": [
-          10,
-          0,
-          0,
-          1,
-          1,
-          8
-        ],
+        "rating_count": [10, 0, 0, 1, 1, 8],
         "rcount_with_image": 2,
         "rcount_with_context": 5
       },
@@ -358,23 +307,14 @@
           "properties": null,
           "type": 0,
           "name": "SIZE",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "WARNA KAOS",
-          "options": [
-            "HITAM",
-            "PUTIH"
-          ]
+          "options": ["HITAM", "PUTIH"]
         }
       ],
       "is_adult": null,
@@ -400,9 +340,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35
-      ],
+      "label_ids": [35],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 13,
@@ -463,14 +401,7 @@
       "shop_location": "KOTA BEKASI",
       "item_rating": {
         "rating_star": 4.375,
-        "rating_count": [
-          8,
-          1,
-          0,
-          0,
-          1,
-          6
-        ],
+        "rating_count": [8, 1, 0, 0, 1, 6],
         "rcount_with_image": 5,
         "rcount_with_context": 6
       },
@@ -481,24 +412,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Putih",
-            "Hitam",
-            "Merah"
-          ]
+          "options": ["Putih", "Hitam", "Merah"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "Xl",
-            "Xxl"
-          ]
+          "options": ["S", "M", "L", "Xl", "Xxl"]
         }
       ],
       "is_adult": null,
@@ -524,15 +445,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        1000167,
-        74,
-        1000016,
-        1000083,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 1000167, 74, 1000016, 1000083, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 33,
@@ -596,42 +509,25 @@
       "shop_location": "KOTA TANGERANG",
       "item_rating": {
         "rating_star": 5.0,
-        "rating_count": [
-          17,
-          0,
-          0,
-          0,
-          0,
-          17
-        ],
+        "rating_count": [17, 0, 0, 0, 0, 17],
         "rcount_with_image": 4,
         "rcount_with_context": 5
       },
       "show_official_shop_label_in_title": false,
       "tier_variations": [
         {
-          "images": [
-            "f2d8217c4664f1fdda1716128871bd41"
-          ],
+          "images": ["f2d8217c4664f1fdda1716128871bd41"],
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Pink fanta"
-          ]
+          "options": ["Pink fanta"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -657,13 +553,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        1000167,
-        47
-      ],
+      "label_ids": [1000016, 74, 35, 1000167, 47],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 100,
@@ -688,9 +578,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "780d5915ca821615be4cb48b25f7dd51"
-      ],
+      "images": ["780d5915ca821615be4cb48b25f7dd51"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -722,14 +610,7 @@
       "shop_location": "KOTA SALATIGA",
       "item_rating": {
         "rating_star": 4.454545,
-        "rating_count": [
-          11,
-          0,
-          1,
-          1,
-          1,
-          8
-        ],
+        "rating_count": [11, 0, 1, 1, 1, 8],
         "rcount_with_image": 4,
         "rcount_with_context": 3
       },
@@ -740,20 +621,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Navy"
-          ]
+          "options": ["Navy"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "Xl"
-          ]
+          "options": ["M", "L", "Xl"]
         }
       ],
       "is_adult": null,
@@ -779,13 +654,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000167,
-        35,
-        1000083,
-        1000006,
-        1000031
-      ],
+      "label_ids": [1000167, 35, 1000083, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 25,
@@ -848,14 +717,7 @@
       "shop_location": "KOTA SURABAYA",
       "item_rating": {
         "rating_star": 4.903226,
-        "rating_count": [
-          62,
-          0,
-          0,
-          1,
-          4,
-          57
-        ],
+        "rating_count": [62, 0, 0, 1, 4, 57],
         "rcount_with_image": 19,
         "rcount_with_context": 22
       },
@@ -866,14 +728,7 @@
           "properties": null,
           "type": null,
           "name": "Variation",
-          "options": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["XS", "S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -899,13 +754,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        1000006,
-        71
-      ],
+      "label_ids": [1000016, 74, 35, 1000006, 71],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 146,
@@ -969,14 +818,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 4.777778,
-        "rating_count": [
-          18,
-          0,
-          0,
-          1,
-          2,
-          15
-        ],
+        "rating_count": [18, 0, 0, 1, 2, 15],
         "rcount_with_image": 3,
         "rcount_with_context": 2
       },
@@ -987,12 +829,7 @@
           "properties": null,
           "type": null,
           "name": "Hitam",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -1096,14 +933,7 @@
       "shop_location": "KOTA SURAKARTA (SOLO)",
       "item_rating": {
         "rating_star": 4.545455,
-        "rating_count": [
-          44,
-          1,
-          1,
-          4,
-          5,
-          33
-        ],
+        "rating_count": [44, 1, 1, 4, 5, 33],
         "rcount_with_image": 4,
         "rcount_with_context": 16
       },
@@ -1114,11 +944,7 @@
           "properties": null,
           "type": 0,
           "name": "Oblong Navy",
-          "options": [
-            "Size M",
-            "Size L",
-            "Size XL"
-          ]
+          "options": ["Size M", "Size L", "Size XL"]
         }
       ],
       "is_adult": null,
@@ -1190,9 +1016,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "7cf70dd87108c8573c702af511509384"
-      ],
+      "images": ["7cf70dd87108c8573c702af511509384"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -1224,14 +1048,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 5.0,
-        "rating_count": [
-          106,
-          0,
-          0,
-          0,
-          0,
-          106
-        ],
+        "rating_count": [106, 0, 0, 0, 0, 106],
         "rcount_with_image": 4,
         "rcount_with_context": 4
       },
@@ -1242,11 +1059,7 @@
           "properties": null,
           "type": null,
           "name": "Size",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -1272,14 +1085,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        68,
-        1000006,
-        1000167,
-        1000080,
-        22,
-        1000031
-      ],
+      "label_ids": [68, 1000006, 1000167, 1000080, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 126,
@@ -1342,14 +1148,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.3125,
-        "rating_count": [
-          16,
-          2,
-          0,
-          1,
-          1,
-          12
-        ],
+        "rating_count": [16, 2, 0, 1, 1, 12],
         "rcount_with_image": 4,
         "rcount_with_context": 5
       },
@@ -1373,13 +1172,7 @@
           "properties": null,
           "type": 0,
           "name": "UKURAN",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -1454,9 +1247,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "f944e270c1ad8d5ceb02c5bbc5ecff11"
-      ],
+      "images": ["f944e270c1ad8d5ceb02c5bbc5ecff11"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -1488,14 +1279,7 @@
       "shop_location": "KAB. JEPARA",
       "item_rating": {
         "rating_star": 4.95,
-        "rating_count": [
-          40,
-          0,
-          0,
-          0,
-          2,
-          38
-        ],
+        "rating_count": [40, 0, 0, 0, 2, 38],
         "rcount_with_image": 8,
         "rcount_with_context": 9
       },
@@ -1506,11 +1290,7 @@
           "properties": null,
           "type": null,
           "name": "size",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -1611,14 +1391,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.4,
-        "rating_count": [
-          5,
-          0,
-          0,
-          0,
-          3,
-          2
-        ],
+        "rating_count": [5, 0, 0, 0, 3, 2],
         "rcount_with_image": 0,
         "rcount_with_context": 2
       },
@@ -1644,12 +1417,7 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -1681,13 +1449,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        35,
-        1000167,
-        1000006,
-        1000031
-      ],
+      "label_ids": [1000016, 35, 1000167, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 13,
@@ -1749,14 +1511,7 @@
       "shop_location": "KAB. BOJONEGORO",
       "item_rating": {
         "rating_star": 4.707317,
-        "rating_count": [
-          41,
-          1,
-          1,
-          0,
-          5,
-          34
-        ],
+        "rating_count": [41, 1, 1, 0, 5, 34],
         "rcount_with_image": 13,
         "rcount_with_context": 17
       },
@@ -1767,25 +1522,14 @@
           "properties": null,
           "type": 0,
           "name": "WARNA",
-          "options": [
-            "Hitam",
-            "Putih",
-            "Maroon",
-            "Navy"
-          ]
+          "options": ["Hitam", "Putih", "Maroon", "Navy"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "UKURAN",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -1811,15 +1555,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        22,
-        1000124,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 22, 1000124, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 112,
@@ -1844,9 +1580,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "849723f7abe6af1a9eb3be0730ed286e"
-      ],
+      "images": ["849723f7abe6af1a9eb3be0730ed286e"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -1878,14 +1612,7 @@
       "shop_location": "KOTA BATU",
       "item_rating": {
         "rating_star": 4.571429,
-        "rating_count": [
-          7,
-          0,
-          0,
-          1,
-          1,
-          5
-        ],
+        "rating_count": [7, 0, 0, 1, 1, 5],
         "rcount_with_image": 1,
         "rcount_with_context": 4
       },
@@ -1902,13 +1629,7 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "Xxxl"
-          ]
+          "options": ["M", "L", "XL", "XXL", "Xxxl"]
         }
       ],
       "is_adult": null,
@@ -1934,12 +1655,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        47,
-        1000167,
-        1000006,
-        1000031
-      ],
+      "label_ids": [47, 1000167, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 10,
@@ -2001,14 +1717,7 @@
       "shop_location": "KOTA BANDUNG",
       "item_rating": {
         "rating_star": 4.933333,
-        "rating_count": [
-          15,
-          0,
-          0,
-          0,
-          1,
-          14
-        ],
+        "rating_count": [15, 0, 0, 0, 1, 14],
         "rcount_with_image": 7,
         "rcount_with_context": 8
       },
@@ -2060,10 +1769,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        22
-      ],
+      "label_ids": [35, 22],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 47,
@@ -2128,14 +1834,7 @@
       "shop_location": "KOTA SURABAYA",
       "item_rating": {
         "rating_star": 4.967742,
-        "rating_count": [
-          31,
-          0,
-          0,
-          0,
-          1,
-          30
-        ],
+        "rating_count": [31, 0, 0, 0, 1, 30],
         "rcount_with_image": 11,
         "rcount_with_context": 9
       },
@@ -2162,13 +1861,7 @@
           "properties": null,
           "type": null,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -2242,9 +1935,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "339b9c6ef636bbd8d01193456e6bc7c3"
-      ],
+      "images": ["339b9c6ef636bbd8d01193456e6bc7c3"],
       "match_type": null,
       "price_before_discount": 2900000000,
       "is_category_failed": false,
@@ -2276,14 +1967,7 @@
       "shop_location": "KOTA CIMAHI",
       "item_rating": {
         "rating_star": 4.789062,
-        "rating_count": [
-          128,
-          0,
-          1,
-          3,
-          18,
-          106
-        ],
+        "rating_count": [128, 0, 1, 3, 18, 106],
         "rcount_with_image": 17,
         "rcount_with_context": 44
       },
@@ -2402,14 +2086,7 @@
       "shop_location": "KOTA JAKARTA BARAT",
       "item_rating": {
         "rating_star": 4.431034,
-        "rating_count": [
-          232,
-          4,
-          8,
-          21,
-          50,
-          149
-        ],
+        "rating_count": [232, 4, 8, 21, 50, 149],
         "rcount_with_image": 25,
         "rcount_with_context": 97
       },
@@ -2420,12 +2097,7 @@
           "properties": null,
           "type": 0,
           "name": "Variasi",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["S", "M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -2451,18 +2123,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        71,
-        74,
-        1000167,
-        1000016,
-        21,
-        22,
-        56,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 71, 74, 1000167, 1000016, 21, 22, 56, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 393,
@@ -2487,9 +2148,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "3534efcd6c09a4098f07f51eb9464900"
-      ],
+      "images": ["3534efcd6c09a4098f07f51eb9464900"],
       "match_type": null,
       "price_before_discount": 4450000000,
       "is_category_failed": false,
@@ -2521,14 +2180,7 @@
       "shop_location": "KOTA JAKARTA BARAT",
       "item_rating": {
         "rating_star": 4.48,
-        "rating_count": [
-          25,
-          1,
-          1,
-          2,
-          2,
-          19
-        ],
+        "rating_count": [25, 1, 1, 2, 2, 19],
         "rcount_with_image": 12,
         "rcount_with_context": 12
       },
@@ -2557,13 +2209,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000167,
-        35,
-        1000083,
-        1000006,
-        1000031
-      ],
+      "label_ids": [1000167, 35, 1000083, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 44,
@@ -2588,9 +2234,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "a980c9ee4749927bdc6a27c7a7a21cd7"
-      ],
+      "images": ["a980c9ee4749927bdc6a27c7a7a21cd7"],
       "match_type": null,
       "price_before_discount": 3350000000,
       "is_category_failed": false,
@@ -2622,14 +2266,7 @@
       "shop_location": "KOTA JAKARTA BARAT",
       "item_rating": {
         "rating_star": 4.558824,
-        "rating_count": [
-          34,
-          0,
-          1,
-          2,
-          8,
-          23
-        ],
+        "rating_count": [34, 0, 1, 2, 8, 23],
         "rcount_with_image": 12,
         "rcount_with_context": 11
       },
@@ -2658,12 +2295,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000167,
-        1000006,
-        1000031
-      ],
+      "label_ids": [35, 1000167, 1000006, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 62,
@@ -2726,14 +2358,7 @@
       "shop_location": "KOTA BANDUNG",
       "item_rating": {
         "rating_star": 4.911765,
-        "rating_count": [
-          50,
-          0,
-          0,
-          0,
-          3,
-          47
-        ],
+        "rating_count": [50, 0, 0, 0, 3, 47],
         "rcount_with_image": 2,
         "rcount_with_context": 6
       },
@@ -2744,11 +2369,7 @@
           "properties": null,
           "type": 0,
           "name": "UKURAN",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -2790,11 +2411,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000167,
-        1000031
-      ],
+      "label_ids": [35, 1000167, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 188,
@@ -2819,9 +2436,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "c02e0046844cabc4355d92c80fefac7e"
-      ],
+      "images": ["c02e0046844cabc4355d92c80fefac7e"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -2853,14 +2468,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 5.0,
-        "rating_count": [
-          12,
-          0,
-          0,
-          0,
-          0,
-          12
-        ],
+        "rating_count": [12, 0, 0, 0, 0, 12],
         "rcount_with_image": 0,
         "rcount_with_context": 0
       },
@@ -2889,14 +2497,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 14,
@@ -2921,9 +2522,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "d87a47d369e462dbf1267bed18bbfc19"
-      ],
+      "images": ["d87a47d369e462dbf1267bed18bbfc19"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -2955,14 +2554,7 @@
       "shop_location": "KOTA TASIKMALAYA",
       "item_rating": {
         "rating_star": 4.888889,
-        "rating_count": [
-          9,
-          0,
-          0,
-          0,
-          1,
-          8
-        ],
+        "rating_count": [9, 0, 0, 0, 1, 8],
         "rcount_with_image": 3,
         "rcount_with_context": 2
       },
@@ -2973,20 +2565,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Hitam"
-          ]
+          "options": ["Hitam"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -3012,14 +2598,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        1000167,
-        1000246,
-        1000247,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 1000167, 1000246, 1000247, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 11,
@@ -3086,14 +2665,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.625,
-        "rating_count": [
-          16,
-          0,
-          0,
-          1,
-          4,
-          11
-        ],
+        "rating_count": [16, 0, 0, 1, 4, 11],
         "rcount_with_image": 1,
         "rcount_with_context": 2
       },
@@ -3122,13 +2694,7 @@
           "properties": null,
           "type": 0,
           "name": "SIZE",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -3196,9 +2762,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "01d39c4ebba704a8c19c469dc07143e9"
-      ],
+      "images": ["01d39c4ebba704a8c19c469dc07143e9"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -3230,14 +2794,7 @@
       "shop_location": "KAB. KLATEN",
       "item_rating": {
         "rating_star": 4.727273,
-        "rating_count": [
-          33,
-          1,
-          0,
-          0,
-          5,
-          27
-        ],
+        "rating_count": [33, 1, 0, 0, 5, 27],
         "rcount_with_image": 8,
         "rcount_with_context": 6
       },
@@ -3248,13 +2805,7 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran Kaos",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         },
         {
           "images": null,
@@ -3302,14 +2853,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 64,
@@ -3369,14 +2913,7 @@
       "shop_location": "KOTA JAKARTA BARAT",
       "item_rating": {
         "rating_star": 4.941176,
-        "rating_count": [
-          17,
-          0,
-          0,
-          0,
-          1,
-          16
-        ],
+        "rating_count": [17, 0, 0, 0, 1, 16],
         "rcount_with_image": 4,
         "rcount_with_context": 4
       },
@@ -3387,11 +2924,7 @@
           "properties": null,
           "type": null,
           "name": "Ukuran",
-          "options": [
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -3417,13 +2950,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        1000006,
-        47
-      ],
+      "label_ids": [1000016, 74, 35, 1000006, 47],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 25,
@@ -3490,14 +3017,7 @@
       "shop_location": "Luar Negeri",
       "item_rating": {
         "rating_star": 4.916667,
-        "rating_count": [
-          12,
-          0,
-          0,
-          0,
-          1,
-          11
-        ],
+        "rating_count": [12, 0, 0, 0, 1, 11],
         "rcount_with_image": 3,
         "rcount_with_context": 2
       },
@@ -3555,10 +3075,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000067,
-        1000068
-      ],
+      "label_ids": [1000067, 1000068],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 39,
@@ -3621,14 +3138,7 @@
       "shop_location": "KAB. NGANJUK",
       "item_rating": {
         "rating_star": 4.730769,
-        "rating_count": [
-          52,
-          1,
-          0,
-          0,
-          10,
-          41
-        ],
+        "rating_count": [52, 1, 0, 0, 10, 41],
         "rcount_with_image": 18,
         "rcount_with_context": 23
       },
@@ -3639,19 +3149,14 @@
           "properties": null,
           "type": null,
           "name": "Warna",
-          "options": [
-            "Hitam"
-          ]
+          "options": ["Hitam"]
         },
         {
           "images": null,
           "properties": null,
           "type": null,
           "name": "Ukuran",
-          "options": [
-            "L",
-            "XL"
-          ]
+          "options": ["L", "XL"]
         }
       ],
       "is_adult": null,
@@ -3761,14 +3266,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.333333,
-        "rating_count": [
-          30,
-          1,
-          2,
-          1,
-          8,
-          18
-        ],
+        "rating_count": [30, 1, 2, 1, 8, 18],
         "rcount_with_image": 6,
         "rcount_with_context": 10
       },
@@ -3797,13 +3295,7 @@
           "properties": null,
           "type": null,
           "name": "SIZE",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -3887,9 +3379,7 @@
       ],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "13ba016ff10bb821563e4bfabbff59b8"
-      ],
+      "images": ["13ba016ff10bb821563e4bfabbff59b8"],
       "match_type": null,
       "price_before_discount": 6500000000,
       "is_category_failed": false,
@@ -3921,14 +3411,7 @@
       "shop_location": "KAB. NGANJUK",
       "item_rating": {
         "rating_star": 4.8125,
-        "rating_count": [
-          64,
-          2,
-          0,
-          1,
-          2,
-          59
-        ],
+        "rating_count": [64, 2, 0, 1, 2, 59],
         "rcount_with_image": 18,
         "rcount_with_context": 23
       },
@@ -3939,10 +3422,7 @@
           "properties": null,
           "type": null,
           "name": "Variasi",
-          "options": [
-            "L",
-            "XL"
-          ]
+          "options": ["L", "XL"]
         }
       ],
       "is_adult": null,
@@ -4051,14 +3531,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.833333,
-        "rating_count": [
-          48,
-          0,
-          0,
-          1,
-          6,
-          41
-        ],
+        "rating_count": [48, 0, 0, 1, 6, 41],
         "rcount_with_image": 13,
         "rcount_with_context": 17
       },
@@ -4086,13 +3559,7 @@
           "properties": null,
           "type": null,
           "name": "UKURAN",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -4205,14 +3672,7 @@
       "shop_location": "KOTA SURABAYA",
       "item_rating": {
         "rating_star": 4.803571,
-        "rating_count": [
-          56,
-          0,
-          0,
-          2,
-          7,
-          47
-        ],
+        "rating_count": [56, 0, 0, 2, 7, 47],
         "rcount_with_image": 11,
         "rcount_with_context": 16
       },
@@ -4223,14 +3683,7 @@
           "properties": null,
           "type": 0,
           "name": "Variation",
-          "options": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["XS", "S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -4256,13 +3709,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        1000006,
-        71
-      ],
+      "label_ids": [1000016, 74, 35, 1000006, 71],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 90,
@@ -4287,9 +3734,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "8dc97cd1657f9b0a25722f347aeb2d19"
-      ],
+      "images": ["8dc97cd1657f9b0a25722f347aeb2d19"],
       "match_type": null,
       "price_before_discount": 5000000000,
       "is_category_failed": false,
@@ -4325,14 +3770,7 @@
       "shop_location": "KOTA DEPOK",
       "item_rating": {
         "rating_star": 4.4,
-        "rating_count": [
-          25,
-          0,
-          1,
-          3,
-          6,
-          15
-        ],
+        "rating_count": [25, 0, 1, 3, 6, 15],
         "rcount_with_image": 1,
         "rcount_with_context": 9
       },
@@ -4343,27 +3781,14 @@
           "properties": null,
           "type": null,
           "name": "Size",
-          "options": [
-            "XS",
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["XS", "S", "M", "L", "XL", "XXL"]
         },
         {
           "images": null,
           "properties": null,
           "type": null,
           "name": "Warna",
-          "options": [
-            "Hitam",
-            "Putih",
-            "Merah",
-            "Navy",
-            "Biru"
-          ]
+          "options": ["Hitam", "Putih", "Merah", "Navy", "Biru"]
         }
       ],
       "is_adult": null,
@@ -4475,14 +3900,7 @@
       "shop_location": "KOTA JAKARTA PUSAT",
       "item_rating": {
         "rating_star": 5.0,
-        "rating_count": [
-          7,
-          0,
-          0,
-          0,
-          0,
-          7
-        ],
+        "rating_count": [7, 0, 0, 0, 0, 7],
         "rcount_with_image": 3,
         "rcount_with_context": 4
       },
@@ -4493,9 +3911,7 @@
           "properties": null,
           "type": 0,
           "name": "KAOS JERSEY",
-          "options": [
-            "JERSEY 2XL / XXL"
-          ]
+          "options": ["JERSEY 2XL / XXL"]
         }
       ],
       "is_adult": null,
@@ -4532,9 +3948,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35
-      ],
+      "label_ids": [35],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 17,
@@ -4559,9 +3973,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "5b3a495ee9f1c9ef44eb522f1baa1dd2"
-      ],
+      "images": ["5b3a495ee9f1c9ef44eb522f1baa1dd2"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -4593,14 +4005,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 4.952381,
-        "rating_count": [
-          21,
-          0,
-          0,
-          0,
-          1,
-          20
-        ],
+        "rating_count": [21, 0, 0, 0, 1, 20],
         "rcount_with_image": 2,
         "rcount_with_context": 5
       },
@@ -4629,15 +4034,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        1000083,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 1000083, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 23,
@@ -4662,9 +4059,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "40c37811dcdb5ca324921f7b2f3530f4"
-      ],
+      "images": ["40c37811dcdb5ca324921f7b2f3530f4"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -4696,14 +4091,7 @@
       "shop_location": "KAB. BOYOLALI",
       "item_rating": {
         "rating_star": 4.888889,
-        "rating_count": [
-          9,
-          0,
-          0,
-          0,
-          1,
-          8
-        ],
+        "rating_count": [9, 0, 0, 0, 1, 8],
         "rcount_with_image": 2,
         "rcount_with_context": 2
       },
@@ -4714,11 +4102,7 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -4744,13 +4128,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000031,
-        35,
-        1000246,
-        1000006,
-        1000247
-      ],
+      "label_ids": [1000031, 35, 1000246, 1000006, 1000247],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 13,
@@ -4813,14 +4191,7 @@
       "shop_location": "KOTA BANJAR",
       "item_rating": {
         "rating_star": 4.647059,
-        "rating_count": [
-          17,
-          0,
-          1,
-          0,
-          3,
-          13
-        ],
+        "rating_count": [17, 0, 1, 0, 3, 13],
         "rcount_with_image": 6,
         "rcount_with_context": 8
       },
@@ -4831,27 +4202,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Hitam",
-            "Putih",
-            "Biru",
-            "Merah",
-            "Biru Muda",
-            "Abu-abu"
-          ]
+          "options": ["Hitam", "Putih", "Biru", "Merah", "Biru Muda", "Abu-abu"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -4877,15 +4235,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        1000016,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 1000016, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 33,
@@ -4953,14 +4303,7 @@
       "shop_location": "KOTA YOGYAKARTA",
       "item_rating": {
         "rating_star": 4.866667,
-        "rating_count": [
-          15,
-          0,
-          0,
-          1,
-          0,
-          14
-        ],
+        "rating_count": [15, 0, 0, 1, 0, 14],
         "rcount_with_image": 2,
         "rcount_with_context": 6
       },
@@ -4971,12 +4314,7 @@
           "properties": null,
           "type": 0,
           "name": "VARIASI HARGA",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -5002,16 +4340,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        22,
-        1000006,
-        1000167,
-        1000246,
-        1000247,
-        1000031
-      ],
+      "label_ids": [35, 68, 22, 1000006, 1000167, 1000246, 1000247, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 26,
@@ -5081,14 +4410,7 @@
       "shop_location": "KOTA SINGKAWANG",
       "item_rating": {
         "rating_star": 4.888889,
-        "rating_count": [
-          18,
-          0,
-          0,
-          0,
-          2,
-          16
-        ],
+        "rating_count": [18, 0, 0, 0, 2, 16],
         "rcount_with_image": 4,
         "rcount_with_context": 2
       },
@@ -5103,23 +4425,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Hitam",
-            "Merah",
-            "Biru"
-          ]
+          "options": ["Hitam", "Merah", "Biru"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -5179,9 +4492,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "3c476b57356cf7cdd891b3125945042b"
-      ],
+      "images": ["3c476b57356cf7cdd891b3125945042b"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -5213,14 +4524,7 @@
       "shop_location": "KAB. SIDOARJO",
       "item_rating": {
         "rating_star": 4.784314,
-        "rating_count": [
-          51,
-          0,
-          0,
-          2,
-          7,
-          42
-        ],
+        "rating_count": [51, 0, 0, 2, 7, 42],
         "rcount_with_image": 10,
         "rcount_with_context": 14
       },
@@ -5231,11 +4535,7 @@
           "properties": null,
           "type": 0,
           "name": "ukuran",
-          "options": [
-            "L",
-            "XL",
-            "M"
-          ]
+          "options": ["L", "XL", "M"]
         }
       ],
       "is_adult": null,
@@ -5261,16 +4561,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        68,
-        1000006,
-        1000167,
-        74,
-        1000016,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 68, 1000006, 1000167, 74, 1000016, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 86,
@@ -5331,14 +4622,7 @@
       "shop_location": "KAB. JOMBANG",
       "item_rating": {
         "rating_star": 4.634783,
-        "rating_count": [
-          115,
-          1,
-          1,
-          4,
-          27,
-          82
-        ],
+        "rating_count": [115, 1, 1, 4, 27, 82],
         "rcount_with_image": 30,
         "rcount_with_context": 46
       },
@@ -5353,24 +4637,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Syekher pendek",
-            "Syekher panjang",
-            "Mafis panjang 2"
-          ]
+          "options": ["Syekher pendek", "Syekher panjang", "Mafis panjang 2"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "L",
-            "Xl",
-            "M",
-            "S",
-            "XXL"
-          ]
+          "options": ["L", "Xl", "M", "S", "XXL"]
         }
       ],
       "is_adult": null,
@@ -5468,41 +4742,25 @@
       "shop_location": "KAB. PONOROGO",
       "item_rating": {
         "rating_star": 4.694444,
-        "rating_count": [
-          36,
-          0,
-          0,
-          4,
-          3,
-          29
-        ],
+        "rating_count": [36, 0, 0, 4, 3, 29],
         "rcount_with_image": 10,
         "rcount_with_context": 10
       },
       "show_official_shop_label_in_title": false,
       "tier_variations": [
         {
-          "images": [
-            "0ecc2c02f03bfafc9127512a669bed33"
-          ],
+          "images": ["0ecc2c02f03bfafc9127512a669bed33"],
           "properties": null,
           "type": null,
           "name": "Warna",
-          "options": [
-            "Merah"
-          ]
+          "options": ["Merah"]
         },
         {
           "images": null,
           "properties": null,
           "type": null,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL",
-            "XXL"
-          ]
+          "options": ["M", "L", "XL", "XXL"]
         }
       ],
       "is_adult": null,
@@ -5528,17 +4786,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        71,
-        74,
-        1000167,
-        1000016,
-        21,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 71, 74, 1000167, 1000016, 21, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 67,
@@ -5563,9 +4811,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "d7636aacd1a073e65905d704085738d4"
-      ],
+      "images": ["d7636aacd1a073e65905d704085738d4"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -5597,14 +4843,7 @@
       "shop_location": "KOTA JAKARTA BARAT",
       "item_rating": {
         "rating_star": 4.6,
-        "rating_count": [
-          10,
-          0,
-          0,
-          1,
-          2,
-          7
-        ],
+        "rating_count": [10, 0, 0, 1, 2, 7],
         "rcount_with_image": 1,
         "rcount_with_context": 1
       },
@@ -5628,11 +4867,7 @@
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -5674,12 +4909,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        22
-      ],
+      "label_ids": [1000016, 74, 35, 22],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 27,
@@ -5740,14 +4970,7 @@
       "shop_location": "KAB. TANGERANG",
       "item_rating": {
         "rating_star": 4.673913,
-        "rating_count": [
-          46,
-          0,
-          1,
-          0,
-          12,
-          33
-        ],
+        "rating_count": [46, 0, 1, 0, 12, 33],
         "rcount_with_image": 3,
         "rcount_with_context": 17
       },
@@ -5758,21 +4981,14 @@
           "properties": null,
           "type": 0,
           "name": "Variation",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "Putih",
-            "Hitam"
-          ]
+          "options": ["Putih", "Hitam"]
         }
       ],
       "is_adult": null,
@@ -5835,9 +5051,7 @@
       "video_info_list": [],
       "ads_keyword": null,
       "collection_id": null,
-      "images": [
-        "82a96245245d0ee8422aab02b397f797"
-      ],
+      "images": ["82a96245245d0ee8422aab02b397f797"],
       "match_type": null,
       "price_before_discount": 0,
       "is_category_failed": false,
@@ -5869,14 +5083,7 @@
       "shop_location": "KAB. PROBOLINGGO",
       "item_rating": {
         "rating_star": 4.723077,
-        "rating_count": [
-          65,
-          0,
-          0,
-          4,
-          10,
-          51
-        ],
+        "rating_count": [65, 0, 0, 4, 10, 51],
         "rcount_with_image": 20,
         "rcount_with_context": 26
       },
@@ -5901,10 +5108,7 @@
           "properties": null,
           "type": 0,
           "name": "Warna kaos",
-          "options": [
-            "Hitam",
-            "Putih"
-          ]
+          "options": ["Hitam", "Putih"]
         }
       ],
       "is_adult": null,
@@ -5930,12 +5134,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        1000016,
-        74,
-        35,
-        1000006
-      ],
+      "label_ids": [1000016, 74, 35, 1000006],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 113,
@@ -5995,14 +5194,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 4.650602,
-        "rating_count": [
-          83,
-          1,
-          1,
-          6,
-          10,
-          65
-        ],
+        "rating_count": [83, 1, 1, 6, 10, 65],
         "rcount_with_image": 16,
         "rcount_with_context": 18
       },
@@ -6114,14 +5306,7 @@
       "shop_location": "KOTA CIREBON",
       "item_rating": {
         "rating_star": 4.895833,
-        "rating_count": [
-          48,
-          0,
-          0,
-          1,
-          3,
-          44
-        ],
+        "rating_count": [48, 0, 0, 1, 3, 44],
         "rcount_with_image": 8,
         "rcount_with_context": 21
       },
@@ -6150,17 +5335,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        71,
-        74,
-        1000167,
-        1000016,
-        21,
-        22,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 71, 74, 1000167, 1000016, 21, 22, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 284,
@@ -6222,14 +5397,7 @@
       "shop_location": "KAB. BEKASI",
       "item_rating": {
         "rating_star": 4.833333,
-        "rating_count": [
-          6,
-          0,
-          0,
-          0,
-          1,
-          5
-        ],
+        "rating_count": [6, 0, 0, 0, 1, 5],
         "rcount_with_image": 1,
         "rcount_with_context": 1
       },
@@ -6240,14 +5408,7 @@
           "properties": null,
           "type": 0,
           "name": "Green",
-          "options": [
-            "S",
-            "M",
-            "L",
-            "XL",
-            "XXL",
-            "XXXL"
-          ]
+          "options": ["S", "M", "L", "XL", "XXL", "XXXL"]
         }
       ],
       "is_adult": null,
@@ -6273,15 +5434,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        1000230,
-        1000199,
-        1000109,
-        1000205,
-        1000083
-      ],
+      "label_ids": [35, 1000006, 1000230, 1000199, 1000109, 1000205, 1000083],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 9,
@@ -6342,14 +5495,7 @@
       "shop_location": "KAB. BANDUNG",
       "item_rating": {
         "rating_star": 4.88,
-        "rating_count": [
-          25,
-          0,
-          0,
-          0,
-          3,
-          22
-        ],
+        "rating_count": [25, 0, 0, 0, 3, 22],
         "rcount_with_image": 11,
         "rcount_with_context": 11
       },
@@ -6364,22 +5510,14 @@
           "properties": null,
           "type": 0,
           "name": "Warna",
-          "options": [
-            "ANNIVERSARY",
-            "BIRU 1933",
-            "Hitam 1933"
-          ]
+          "options": ["ANNIVERSARY", "BIRU 1933", "Hitam 1933"]
         },
         {
           "images": null,
           "properties": null,
           "type": 0,
           "name": "Ukuran",
-          "options": [
-            "M",
-            "L",
-            "XL"
-          ]
+          "options": ["M", "L", "XL"]
         }
       ],
       "is_adult": null,
@@ -6405,14 +5543,7 @@
       "item_type": 0,
       "shipping_icon_type": null,
       "campaign_stock": null,
-      "label_ids": [
-        35,
-        1000006,
-        1000167,
-        47,
-        1000124,
-        1000031
-      ],
+      "label_ids": [35, 1000006, 1000167, 47, 1000124, 1000031],
       "service_by_shopee_flag": 0,
       "badge_icon_type": 0,
       "historical_sold": 40,

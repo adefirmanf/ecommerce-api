@@ -1,0 +1,2141 @@
+{
+  "item": {
+    "itemid": 1636649723,
+    "price_max_before_discount": 169900000000,
+    "item_status": "normal",
+    "can_use_wholesale": false,
+    "show_free_shipping": true,
+    "estimated_days": 2,
+    "is_hot_sales": true,
+    "is_slash_price_item": false,
+    "upcoming_flash_sale": null,
+    "slash_lowest_price": null,
+    "condition": 4,
+    "add_on_deal_info": null,
+    "is_non_cc_installment_payment_eligible": true,
+    "categories": [
+      {
+        "display_name": "Komputer & Aksesoris",
+        "catid": 134,
+        "image": null,
+        "no_sub": false,
+        "is_default_subcat": false,
+        "block_buyer_platform": null
+      },
+      {
+        "display_name": "Laptop",
+        "catid": 1367,
+        "image": null,
+        "no_sub": false,
+        "is_default_subcat": false,
+        "block_buyer_platform": null
+      },
+      {
+        "display_name": "Laptop Konsumer",
+        "catid": 15951,
+        "image": null,
+        "no_sub": true,
+        "is_default_subcat": true,
+        "block_buyer_platform": null
+      }
+    ],
+    "ctime": 1541507735,
+    "name": "LAPTOP SEKEN SEJUTAAN BUAT UNBK CORE 2 DUO MURAH BISA BUAT LAPTOP ONLINE SHOP Dell d620 d 620 d820",
+    "show_shopee_verified_label": false,
+    "size_chart": null,
+    "is_pre_order": false,
+    "service_by_shopee_flag": 0,
+    "historical_sold": 1167,
+    "reference_item_id": "",
+    "recommendation_info": null,
+    "bundle_deal_info": null,
+    "price_max": 157500000000,
+    "has_lowest_price_guarantee": false,
+    "shipping_icon_type": 0,
+    "images": [
+      "3b0b4a79d9d84acf7385e0139910e5e9",
+      "25cbe7113ee842c6cf844f8ba3e28efe",
+      "e3af97e6e42f6f5abe9b3426dd9309b1",
+      "5e41f0a6dd8165cc208ed540bccbcca5",
+      "266ccf4b5f06b9e42b7cf3efe0f165b6",
+      "ad7b6cbfa083dc079fa8bb11faadc12b",
+      "1acea0e15550ab5029319b3f8af09253",
+      "e4ee6e98d53aec66834ad7ba0a2cbeee"
+    ],
+    "price_before_discount": 140000000000,
+    "cod_flag": 0,
+    "catid": 134,
+    "is_official_shop": false,
+    "coin_earn_label": null,
+    "hashtag_list": [],
+    "sold": 30,
+    "makeup": null,
+    "item_rating": {
+      "rating_star": 4.839953,
+      "rating_count": [861, 4, 3, 4, 104, 746],
+      "rcount_with_image": 486,
+      "rcount_with_context": 570
+    },
+    "show_official_shop_label_in_title": false,
+    "discount": "13%",
+    "reason": "",
+    "label_ids": [33, 68, 1000006, 44, 46, 47, 1000245, 22, 1000375, 25],
+    "has_group_buy_stock": false,
+    "deep_discount": null,
+    "attributes": [
+      {
+        "is_pending_qc": false,
+        "idx": 0,
+        "value": "Dell",
+        "id": 14556,
+        "is_timestamp": false,
+        "name": "Merek"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 1,
+        "value": "Windows",
+        "id": 14536,
+        "is_timestamp": false,
+        "name": "Operating System"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 2,
+        "value": "core 2 duo",
+        "id": 14537,
+        "is_timestamp": false,
+        "name": "Processor"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 3,
+        "value": "2 GB",
+        "id": 14538,
+        "is_timestamp": false,
+        "name": "Memory RAM"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 4,
+        "value": "128GB",
+        "id": 14539,
+        "is_timestamp": false,
+        "name": "Penyimpanan"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 5,
+        "value": "14\"",
+        "id": 14540,
+        "is_timestamp": false,
+        "name": "Ukuran Layar"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 6,
+        "value": "1280x720",
+        "id": 20987,
+        "is_timestamp": false,
+        "name": "Resolusi"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 7,
+        "value": "2800",
+        "id": 23236,
+        "is_timestamp": false,
+        "name": "Berat Produk"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 8,
+        "value": "Garansi Toko",
+        "id": 23227,
+        "is_timestamp": false,
+        "name": "Tipe Garansi"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 9,
+        "value": "VGA Terintegrasi",
+        "id": 23048,
+        "is_timestamp": false,
+        "name": "Graphic Card"
+      },
+      {
+        "is_pending_qc": true,
+        "idx": 10,
+        "value": "1 bulan",
+        "id": 23226,
+        "is_timestamp": false,
+        "name": "Periode Garansi"
+      }
+    ],
+    "badge_icon_type": 0,
+    "liked": false,
+    "cmt_count": 861,
+    "image": "3b0b4a79d9d84acf7385e0139910e5e9",
+    "recommendation_algorithm": null,
+    "is_cc_installment_payment_eligible": true,
+    "shopid": 18300679,
+    "normal_stock": 220,
+    "video_info_list": [],
+    "installment_plans": [
+      {
+        "banks": [
+          {
+            "bank_name": "DBS",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "DBS",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 833,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_anz @3x]",
+                "option_info": "8002000-200"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "DBS",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 833,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_anz @6x]",
+                "option_info": "8002000-201"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "DBS",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 833,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_anz @12x]",
+                "option_info": "8002000-202"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "DBS",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 833,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_anz @18x]",
+                "option_info": "8002000-203"
+              }
+            ],
+            "bank_id": 833,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_dbs_digibank_id.png"
+          },
+          {
+            "bank_name": "Permata",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Permata",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2505,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_permata @3x]",
+                "option_info": "8002000-220"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Permata",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2505,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_permata @6x]",
+                "option_info": "8002000-221"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Permata",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2505,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_permata @12x]",
+                "option_info": "8002000-222"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=300000000000",
+                "data": {
+                  "bank_name": "Permata",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2505,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_permata @18x]",
+                "option_info": "8002000-223"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=300000000000",
+                "data": {
+                  "bank_name": "Permata",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2505,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_permata @24x]",
+                "option_info": "8002000-224"
+              }
+            ],
+            "bank_id": 2505,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_permata.png"
+          },
+          {
+            "bank_name": "Panin",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Panin",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13339,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_panin @3x]",
+                "option_info": "8002000-285"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Panin",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13339,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_panin @6x]",
+                "option_info": "8002000-286"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Panin",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13339,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_panin @12x]",
+                "option_info": "8002000-287"
+              }
+            ],
+            "bank_id": 13339,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_panin_bank.png"
+          },
+          {
+            "bank_name": "Maybank",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Maybank",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13865,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_maybank @3x]",
+                "option_info": "8002000-250"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Maybank",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13865,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_maybank @6x]",
+                "option_info": "8002000-251"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Maybank",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13865,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_maybank @12x]",
+                "option_info": "8002000-252"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=200000000000",
+                "data": {
+                  "bank_name": "Maybank",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13865,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_maybank @24x]",
+                "option_info": "8002000-254"
+              }
+            ],
+            "bank_id": 13865,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_maybank.png"
+          },
+          {
+            "bank_name": "Standard Chartered",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Standard Chartered",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1798,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_standardchartered @3x]",
+                "option_info": "8002000-210"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Standard Chartered",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1798,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_standardchartered @6x]",
+                "option_info": "8002000-211"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Standard Chartered",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1798,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_standardchartered @12x]",
+                "option_info": "8002000-212"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=300000000000",
+                "data": {
+                  "bank_name": "Standard Chartered",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1798,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_standardchartered @18x]",
+                "option_info": "8002000-213"
+              }
+            ],
+            "bank_id": 1798,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_standard_chartered.png"
+          },
+          {
+            "bank_name": "MNC",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "MNC",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13863,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mnc @3x]",
+                "option_info": "8002000-270"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "MNC",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13863,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mnc @6x]",
+                "option_info": "8002000-271"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "MNC",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13863,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mnc @12x]",
+                "option_info": "8002000-272"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "MNC",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13863,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mnc @18x]",
+                "option_info": "8002000-273"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=1000000000000",
+                "data": {
+                  "bank_name": "MNC",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13863,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mnc @24x]",
+                "option_info": "8002000-274"
+              }
+            ],
+            "bank_id": 13863,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_MNC.png"
+          },
+          {
+            "bank_name": "Bukopin",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Bukopin",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1577,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bukopin @3x]",
+                "option_info": "8002000-280"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Bukopin",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1577,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bukopin @6x]",
+                "option_info": "8002000-281"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=200000000000",
+                "data": {
+                  "bank_name": "Bukopin",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1577,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bukopin @12x]",
+                "option_info": "8002000-282"
+              }
+            ],
+            "bank_id": 1577,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_BUKOPIN.png"
+          },
+          {
+            "bank_name": "BTN",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BTN",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13895,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_btn @3x]",
+                "option_info": "8002000-265"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BTN",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13895,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_btn @6x]",
+                "option_info": "8002000-266"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BTN",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13895,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_btn @12x]",
+                "option_info": "8002000-267"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=1000000000000",
+                "data": {
+                  "bank_name": "BTN",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13895,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_btn @18x]",
+                "option_info": "8002000-268"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "BTN",
+                  "down_payment": 0,
+                  "name": "24x @ 0.5%",
+                  "interest_rate": 0.5,
+                  "option_id": null,
+                  "bank_id": 13895,
+                  "installment_amount": 158287499999,
+                  "channel_id": null,
+                  "monthly_installment": 6595312499,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_btn @24x]",
+                "option_info": "8002000-269"
+              }
+            ],
+            "bank_id": 13895,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_BTN.png"
+          },
+          {
+            "bank_name": "HSBC",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "HSBC",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4495,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_hsbc @3x]",
+                "option_info": "8002000-225"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "HSBC",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4495,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_hsbc @6x]",
+                "option_info": "8002000-226"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "HSBC",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4495,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_hsbc @12x]",
+                "option_info": "8002000-227"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "HSBC",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4495,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_hsbc @18x]",
+                "option_info": "8002000-228"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "HSBC",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4495,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_hsbc @24x]",
+                "option_info": "8002000-229"
+              }
+            ],
+            "bank_id": 4495,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_hsbc.png"
+          },
+          {
+            "bank_name": "BNI",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BNI",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 3632,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_negara @6x]",
+                "option_info": "8002000-256"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BNI",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 3632,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_negara @12x]",
+                "option_info": "8002000-257"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BNI",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 3632,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_negara @3x]",
+                "option_info": "8002000-255"
+              }
+            ],
+            "bank_id": 3632,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_negara.png"
+          },
+          {
+            "bank_name": "Bank Mega",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Bank Mega",
+                  "down_payment": 0,
+                  "name": "3x @ 0.5%",
+                  "interest_rate": 0.5,
+                  "option_id": null,
+                  "bank_id": 4882,
+                  "installment_amount": 158287499999,
+                  "channel_id": null,
+                  "monthly_installment": 52762499999,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_megabank @3x]",
+                "option_info": "8002000-235"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Bank Mega",
+                  "down_payment": 0,
+                  "name": "6x @ 0.5%",
+                  "interest_rate": 0.5,
+                  "option_id": null,
+                  "bank_id": 4882,
+                  "installment_amount": 158287499999,
+                  "channel_id": null,
+                  "monthly_installment": 26381249999,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_megabank @6x]",
+                "option_info": "8002000-236"
+              }
+            ],
+            "bank_id": 4882,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_mega_bank.png"
+          },
+          {
+            "bank_name": "BRI",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BRI",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5011,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bri @3x]",
+                "option_info": "8002000-240"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BRI",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5011,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bri @6x]",
+                "option_info": "8002000-241"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BRI",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5011,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bri @12x]",
+                "option_info": "8002000-242"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BRI",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5011,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bri @18x]",
+                "option_info": "8002000-243"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BRI",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5011,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bri @24x]",
+                "option_info": "8002000-244"
+              }
+            ],
+            "bank_id": 5011,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_BRI.png"
+          },
+          {
+            "bank_name": "BCA",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BCA",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5236,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bca @3x]",
+                "option_info": "8002000-290"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BCA",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5236,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bca @6x]",
+                "option_info": "8002000-291"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "BCA",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 5236,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_bca @12x]",
+                "option_info": "8002000-292"
+              }
+            ],
+            "bank_id": 5236,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_bca.png"
+          },
+          {
+            "bank_name": "OCBC NISP",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "OCBC NISP",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 7447,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_ocbc_nisp @3x]",
+                "option_info": "8002000-275"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "OCBC NISP",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 7447,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_ocbc_nisp @6x]",
+                "option_info": "8002000-276"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "OCBC NISP",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 7447,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_ocbc_nisp @12x]",
+                "option_info": "8002000-277"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "OCBC NISP",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 7447,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_ocbc_nisp @18x]",
+                "option_info": "8002000-278"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "OCBC NISP",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 7447,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_ocbc_nisp @24x]",
+                "option_info": "8002000-279"
+              }
+            ],
+            "bank_id": 7447,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_OCBC_NISP.png"
+          },
+          {
+            "bank_name": "Mandiri",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mandiri",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2200,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mandiri @3x]",
+                "option_info": "8002000-215"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mandiri",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2200,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mandiri @6x]",
+                "option_info": "8002000-216"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mandiri",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2200,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mandiri @12x]",
+                "option_info": "8002000-217"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=1000000000000",
+                "data": {
+                  "bank_name": "Mandiri",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 2200,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mandiri @18x]",
+                "option_info": "8002000-218"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=500000000000",
+                "data": {
+                  "bank_name": "Mandiri",
+                  "down_payment": 0,
+                  "name": "24x @ 0.5%",
+                  "interest_rate": 0.5,
+                  "option_id": null,
+                  "bank_id": 2200,
+                  "installment_amount": 158287499999,
+                  "channel_id": null,
+                  "monthly_installment": 6595312499,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mandiri @24x]",
+                "option_info": "8002000-219"
+              }
+            ],
+            "bank_id": 2200,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_mandiri.png"
+          },
+          {
+            "bank_name": "UOB",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "UOB",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 6391,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_uob @3x]",
+                "option_info": "8002000-245"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "UOB",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 6391,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_uob @6x]",
+                "option_info": "8002000-246"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "UOB",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 6391,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_uob @12x]",
+                "option_info": "8002000-247"
+              }
+            ],
+            "bank_id": 6391,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_UOB.png"
+          },
+          {
+            "bank_name": "Danamon",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Danamon",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 858,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_danamon @3x]",
+                "option_info": "8002000-205"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Danamon",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 858,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_danamon @6x]",
+                "option_info": "8002000-206"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Danamon",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 858,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_danamon @12x]",
+                "option_info": "8002000-207"
+              }
+            ],
+            "bank_id": 858,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_danamon_bank.png"
+          },
+          {
+            "bank_name": "CIMB",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "CIMB",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1499,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_cimb @3x]",
+                "option_info": "8002000-260"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "CIMB",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1499,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_cimb @6x]",
+                "option_info": "8002000-261"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "CIMB",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1499,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_cimb @12x]",
+                "option_info": "8002000-262"
+              },
+              {
+                "disabled_reason": "not_reach_min_amount|min_amount=1000000000000",
+                "data": {
+                  "bank_name": "CIMB",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 1499,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_cimb @24x]",
+                "option_info": "8002000-264"
+              }
+            ],
+            "bank_id": 1499,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_CIMB.png"
+          },
+          {
+            "bank_name": "Mayapada",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mayapada",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13916,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mayapada @3x]",
+                "option_info": "8002000-295"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mayapada",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13916,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mayapada @6x]",
+                "option_info": "8002000-296"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mayapada",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13916,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mayapada @12x]",
+                "option_info": "8002000-297"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mayapada",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13916,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mayapada @18x]",
+                "option_info": "8002000-298"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Mayapada",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 13916,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_mayapada @24x]",
+                "option_info": "8002000-299"
+              }
+            ],
+            "bank_id": 13916,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_bank_mayapada.png"
+          },
+          {
+            "bank_name": "Citibank",
+            "sub_options": [
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Citibank",
+                  "down_payment": 0,
+                  "name": "3x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4575,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 52500000000,
+                  "tenure": 3,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_citibank @3x]",
+                "option_info": "8002000-230"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Citibank",
+                  "down_payment": 0,
+                  "name": "6x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4575,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 26250000000,
+                  "tenure": 6,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_citibank @6x]",
+                "option_info": "8002000-231"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Citibank",
+                  "down_payment": 0,
+                  "name": "12x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4575,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 13125000000,
+                  "tenure": 12,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_citibank @12x]",
+                "option_info": "8002000-232"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Citibank",
+                  "down_payment": 0,
+                  "name": "18x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4575,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 8750000000,
+                  "tenure": 18,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_citibank @18x]",
+                "option_info": "8002000-233"
+              },
+              {
+                "disabled_reason": null,
+                "data": {
+                  "bank_name": "Citibank",
+                  "down_payment": 0,
+                  "name": "24x @ 0%",
+                  "interest_rate": 0,
+                  "option_id": null,
+                  "bank_id": 4575,
+                  "installment_amount": 157500000000,
+                  "channel_id": null,
+                  "monthly_installment": 6562500000,
+                  "tenure": 24,
+                  "total_amount": 157500000000
+                },
+                "name": "Nicepay CC Installment [label_bankid_citibank @24x]",
+                "option_info": "8002000-234"
+              }
+            ],
+            "bank_id": 4575,
+            "bank_logo": "https://mall.shopee.co.id/static/images/bank_logo/ID/box_icon/ic_citi.png"
+          }
+        ],
+        "channel_name": "label_nicepay_cc_installment",
+        "is_cc": true,
+        "plans": null,
+        "channel_ic": "ic_paymentoption_ccinstallment"
+      },
+      {
+        "banks": null,
+        "channel_name": "label_kredivo",
+        "is_cc": false,
+        "plans": [
+          {
+            "duration": 1,
+            "disabled_reason": null,
+            "interest_rate": 0,
+            "monthly_payment": 157500000000,
+            "plan_name": "Bayar dlm 30 hari, Bunga 0%"
+          },
+          {
+            "duration": 3,
+            "disabled_reason": null,
+            "interest_rate": 2.95,
+            "monthly_payment": 56194562423,
+            "plan_name": "3x, Bunga 2.95%"
+          },
+          {
+            "duration": 6,
+            "disabled_reason": null,
+            "interest_rate": 2.95,
+            "monthly_payment": 29537337853,
+            "plan_name": "6x, Bunga 2.95%"
+          },
+          {
+            "duration": 12,
+            "disabled_reason": null,
+            "interest_rate": 2.95,
+            "monthly_payment": 16278565880,
+            "plan_name": "12x, Bunga 2.95%"
+          }
+        ],
+        "channel_ic": "ic_payment_kredivo"
+      },
+      {
+        "banks": null,
+        "channel_name": "Akulaku",
+        "is_cc": false,
+        "plans": [
+          {
+            "duration": 1,
+            "disabled_reason": {
+              "reason": "channel_disabled",
+              "min_item_price": null
+            },
+            "interest_rate": 0,
+            "monthly_payment": 163045500000,
+            "plan_name": "Cicilan 1X"
+          },
+          {
+            "duration": 2,
+            "disabled_reason": {
+              "reason": "channel_disabled",
+              "min_item_price": null
+            },
+            "interest_rate": 0,
+            "monthly_payment": 83656100000,
+            "plan_name": "Cicilan 2X"
+          },
+          {
+            "duration": 3,
+            "disabled_reason": null,
+            "interest_rate": 0,
+            "monthly_payment": 57251700000,
+            "plan_name": "Cicilan 3X"
+          },
+          {
+            "duration": 6,
+            "disabled_reason": null,
+            "interest_rate": 0,
+            "monthly_payment": 30803300000,
+            "plan_name": "Cicilan 6X"
+          },
+          {
+            "duration": 9,
+            "disabled_reason": null,
+            "interest_rate": 0,
+            "monthly_payment": 21887900000,
+            "plan_name": "Cicilan 9X"
+          },
+          {
+            "duration": 12,
+            "disabled_reason": null,
+            "interest_rate": 0,
+            "monthly_payment": 17347500000,
+            "plan_name": "Cicilan 12X"
+          }
+        ],
+        "channel_ic": "ic_akulaku"
+      }
+    ],
+    "view_count": null,
+    "current_promotion_has_reserve_stock": false,
+    "liked_count": 5152,
+    "show_official_shop_label": false,
+    "price_min_before_discount": 140000000000,
+    "show_discount": 13,
+    "preview_info": null,
+    "flag": 917506,
+    "current_promotion_reserved_stock": 0,
+    "wholesale_tier_list": [],
+    "group_buy_info": null,
+    "shopee_verified": false,
+    "hidden_price_display": null,
+    "transparent_background_image": "",
+    "welcome_package_info": null,
+    "coin_info": {
+      "spend_cash_unit": 100000,
+      "coin_earn_items": []
+    },
+    "is_adult": null,
+    "currency": "IDR",
+    "raw_discount": 13,
+    "is_category_failed": false,
+    "price_min": 132500000000,
+    "can_use_bundle_deal": false,
+    "cb_option": 0,
+    "brand": "Dell",
+    "stock": 220,
+    "status": 1,
+    "bundle_deal_id": 0,
+    "is_group_buy_item": null,
+    "description": "ISI PAKET : \nUNIT LAPTOP\nADAPTOR BAWAAN \n[ BONUS ] PACKING KARDUS AMAN \n[ BONUS ] BUBLLE WARP TEBAL \n\nJUMLAH ADA RATUSAN JADI STOCK TIDAK PERLU DITANYA KEMBALI LANGSUNG SAJA DI ORDER KECUALI PENGAMBILAN PULUHAN UNIT SILAHKAN DIKONFIRMASI.\n\nUNIT INI EX KANTOR LUAR NEGERI YG PEMAKAIANNYA SANGAT APIK JADI KONDISINYA MASIH SANGATT BAIK\n\nDELL D620 = 14 INCH BATERAI 40 Menit - 1 JAM STANDBY\nDELL D820 = 15 INCH  BATERAI 1 Jam - 1.5 JAM STANDBY\n\nFISIK SAMA / TIDAK ADA PERBEDAAN SECARA DESIGN ( HANYA UKURAN SAJA YANG BERBEDA ) \nDELL D820 LEBIH BESAR DI BANDING DELL D620 \n\n* KESALAHAN DALAM PEMILIHAN TYPE TIDAK DAPAT DI TUKAR *\n\nSPESIFIKASI :\nINTEL CORE 2 DUO \nRAM DDR2 2 GB \nHARDISK SATA 160 GB\natau Harddisk sata 250gb ** ( harga berbeda ) \n\nDVD RW\nWIFI\nCARDREADER PORT\nVGA PORT (UNTUK PRESENTASI KE LCD PROYEKTOR)\nESATA PORT (FUNGSI SAMA DENGAN USB PORT TAPI SPEED LEBIH TINGGI)\nUSB 2.0 X 3 PORT\nAUDIO PORT\nFIREWIRE PORT\nRJ45 LAN PORT\nDISPLAY PORT (SAMA DENGAN HDMI FUNGSINYA)\nTERINSTALL WINDOWS 7,OFFICE,ADOBEREADER DLL,SIAP PAKAI\n\n===========================================================================================\n\nlenovo thinkpad x200 \n( BISA UNTUK UNBK - SYARAT MINIMAL LAYAR 11 INCH, LAPTOP INI 12.5 INCH )\n\ncore 2 duo p8700 @2.53 ghz\nram 2 gb \nharddisk 160 gb \nlayar 12.1 inch wide \n+ body ringan \n+ speed ngebut \n\n====================================================================\n\nFUJITSU LIFEBOOK A8280 MADE IN JAPAN CORE 2 DUO RAM 2GB HD 160 GB WIFI SPEED KENCANG\n\nLAPTOP INI ADALAH LAPTOP VERSI BISNIS YANG DIJAMANNYA HARGANYA BISA 4 5 KALI LIPAT DARI HARGA SECONDNYA, UNIT INI DI JUAL DALAM KEADAAN BAIK DAN SUDH KAMI TEST(DIAKHIR HALAMAN ADA PENJELASANNYA)\nHARGA MURAH TAPI TIDAK MURAHAN\n\nSPESIFIKASI :\n- INTEL CORE 2 DUO P8700 HIGH SPEED 2.53 GHZ\n- RAM 2 GB\n- HARDISK 160 GB\n- DVD ROOM\n- WIFI\n- KEYBOARD JEPANG\n\nFITUR TAMBAHAN :\n- VGA PORT\n- CARDREADER PORT\n- RJ 45 LAN PORT\n- 4 X PORT USB 2.0\n- AUDIO PORT\n- LAYAR 15.4 INCH WIDE ANTIGLARED LED RESOLUSI HD\n- TERINSTAL WINDOWS 7 DENGAN OFFICE,ADOBEREADER,DLL SIAP PAKAI\n\n====================================================================\nKONDISI FISIK : \n\n\n80-90% TINGKAT KEMULUSAN \nCover ada baret-baret halus\n[ OK ] Mesin dan Mainboard \n[ OK ] Baterai Normal kondisi GOOD \n[ OK ] Keyboard berfungsi NORMAL \n[ OK ] No Minus \n\nGaransi Product : \n[ 4 ] Empat Minggu,\ntidak termasuk LCD / Body pecah \n\nSetiap unit yang akan dikirim sudah melewati Quality Control. \n\nFoto yang di pajang diambil langsung dari unit yang akan di jual. \n\nTerima reseller [ hubungi by chat untuk harga dan ketentuan menjadi reseller ]\n\n- Infinity Technology -",
+    "flash_sale": null,
+    "models": [
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "Dell d820 Layar 15''",
+        "promotionid": 1061299502,
+        "price": 152500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 0,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": false,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [0],
+          "seller_promotion_refresh_time": 1609433400
+        },
+        "price_before_discount": 167500000000,
+        "modelid": 8104036550,
+        "sold": 66,
+        "stock": 0
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "Dell d620 Grey 160gb",
+        "promotionid": 1061299502,
+        "price": 135000000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 20,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": false,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [1],
+          "seller_promotion_refresh_time": 1609433400
+        },
+        "price_before_discount": 149500000000,
+        "modelid": 9653068682,
+        "sold": 230,
+        "stock": 20
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "Dell d620 Grey 250gb",
+        "promotionid": 0,
+        "price": 157500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 20,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": null,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [2],
+          "seller_promotion_refresh_time": 0
+        },
+        "price_before_discount": 0,
+        "modelid": 11219527506,
+        "sold": 33,
+        "stock": 20
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "Lenovo Thinkpad x200",
+        "promotionid": 1061299502,
+        "price": 132500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 3,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": false,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [3],
+          "seller_promotion_refresh_time": 1609433400
+        },
+        "price_before_discount": 140000000000,
+        "modelid": 11908835857,
+        "sold": 76,
+        "stock": 3
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "D820 15\" 250gb Mulus",
+        "promotionid": 1061299502,
+        "price": 162500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 0,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": false,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [4],
+          "seller_promotion_refresh_time": 1609433400
+        },
+        "price_before_discount": 165000000000,
+        "modelid": 12915186420,
+        "sold": 25,
+        "stock": 0
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "D820 15\" 320gb Mulus",
+        "promotionid": 0,
+        "price": 173500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 0,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": null,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [5],
+          "seller_promotion_refresh_time": 0
+        },
+        "price_before_discount": 0,
+        "modelid": 13186264133,
+        "sold": 41,
+        "stock": 0
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "Dell d620 Grey 320gb",
+        "promotionid": 0,
+        "price": 163500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 0,
+        "extinfo": {
+          "seller_promotion_limit": null,
+          "has_shopee_promo": null,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [6],
+          "seller_promotion_refresh_time": 0
+        },
+        "price_before_discount": 0,
+        "modelid": 13342174617,
+        "sold": 17,
+        "stock": 0
+      },
+      {
+        "itemid": 1636649723,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "FUJITSU A8280",
+        "promotionid": 1061299502,
+        "price": 147500000000,
+        "current_promotion_has_reserve_stock": false,
+        "currency": "IDR",
+        "normal_stock": 177,
+        "extinfo": {
+          "seller_promotion_limit": 0,
+          "has_shopee_promo": false,
+          "group_buy_info": null,
+          "holiday_mode_old_stock": null,
+          "tier_index": [7],
+          "seller_promotion_refresh_time": 1609433400
+        },
+        "price_before_discount": 169900000000,
+        "modelid": 14877828203,
+        "sold": 23,
+        "stock": 177
+      }
+    ],
+    "price": 132500000000,
+    "shop_location": "KOTA JAKARTA BARAT",
+    "tier_variations": [
+      {
+        "images": [
+          "2a1205d7e920b951e41ef48e37abdf6e",
+          "7d15a72474f73a81ed58ccbeb56cb70a",
+          "58e7bbf82dac17391217978a2759b02c",
+          "5e41f0a6dd8165cc208ed540bccbcca5",
+          "773918fe63a5618cbbab7c11b8a9293e",
+          "639b380033338a34d1ec631af65b5fbf",
+          "557eab0e5adac316d9ac04d834092db2",
+          "e4ee6e98d53aec66834ad7ba0a2cbeee"
+        ],
+        "properties": null,
+        "type": 0,
+        "name": "Core 2 Duo ",
+        "options": [
+          "Dell d820 Layar 15''",
+          "Dell d620 Grey 160gb",
+          "Dell d620 Grey 250gb",
+          "Lenovo Thinkpad x200",
+          "D820 15\" 250gb Mulus",
+          "D820 15\" 320gb Mulus",
+          "Dell d620 Grey 320gb",
+          "FUJITSU A8280"
+        ]
+      }
+    ],
+    "makeups": null,
+    "welcome_package_type": 0,
+    "show_official_shop_label_in_normal_position": null,
+    "item_type": 0
+  },
+  "version": "a9506b132c84cd7b5f099d37822e2608",
+  "data": null,
+  "error_msg": null,
+  "error": null
+}
