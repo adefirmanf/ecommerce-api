@@ -30,7 +30,7 @@
     "firebase": "^7.14.2",
     "https-proxy-agent": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "pg": "^8.0.0",
     "validatorjs": "^3.18.1"
   },
